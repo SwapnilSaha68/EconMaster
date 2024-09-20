@@ -1,0 +1,17 @@
+npm run data:import
+in backend folder, npm run server
+in client folder, npm start
+
+
+npm install
+npm warn deprecated crypto@1.0.1: This package is no longer supported. It's now a built-in Node module. If you've depended on crypto, you should switch to the one that's built-in.
+
+added 230 packages, and audited 231 packages in 14s
+
+20 packages are looking for funding
+  run `npm fund` for details
+
+19 vulnerabilities (2 moderate, 17 high)
+
+
+
